@@ -1,21 +1,17 @@
 ---
 layout: post
-title: What is Jekyll
-author: jane
-categories:
-- Jekyll
-- tutorial
-image: assets/images/11.jpg
+title: What is floorball.news
+author: malek
+categories: []
+image: "/assets/images/mitfarbe.png"
 
 ---
-No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
+It was yesterday when my mind came up with an idea for a global floorball news site. I thought about my favorite sports and why it does not is represented for a bigger audience. 
 
-Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free-custom domain name and all.
+Whe as a community have archieved some goals in the last years. But there are much more for the future.
 
-## What is Jekyll?
+I want to help with this site to grow and get the attention we 
 
-Jekyll is a simple, blog-aware, static site generator.
+## What is floorball.news
 
-You create your content as text files (Markdown), and organize them into folders. Then, you build the shell of your site using Liquid-enhanced HTML templates. Jekyll automatically stitches the content and templates together, generating a website made entirely of static assets, suitable for uploading to any server.
-
-Jekyll happens to be the engine behind GitHub Pages, so you can host your project’s Jekyll page/blog/website on GitHub’s servers for free.
+My contribution to a world where I has not anymore to explain what floorball is.
