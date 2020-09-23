@@ -23,12 +23,12 @@ authors:
     email: contact@floorball.news
     twitter: https://twitter.com/floorballtm
   jane:
-    name: Jane
-    site: https://www.wowthemes.net
+    name: Newsroom
+    site: ''
     avatar: "/assets/images/avatar2.jpg"
-    bio: Blogger, fashionista, love to explore new ideas and write on my morning coffee!
-    email: fakemail@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+    bio: ''
+    email: contact@floorball.news
+    twitter: https://twitter.com/
 defaults:
 - scope:
     path: _posts
