@@ -3,7 +3,7 @@ layout: post
 categories:
 - floorball.news
 title: What is floorball.news
-author: Malek
+author: Sal
 image: "/assets/images/mitfarbe.png"
 
 ---
