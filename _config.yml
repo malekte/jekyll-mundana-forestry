@@ -1,7 +1,7 @@
 ---
 name: floorball.news
 description: All about the fastest game
-logo: assets/images/logo.png
+logo: "/assets/images/mitfarbe.png"
 favicon: assets/images/favicon.ico
 email: contact@floorball.news
 mailchimp-list: https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b
@@ -25,7 +25,7 @@ authors:
   jane:
     name: Newsroom
     site: ''
-    avatar: "/assets/images/avatar2.jpg"
+    avatar: "/assets/images/mitfarbe.png"
     bio: ''
     email: contact@floorball.news
     twitter: https://twitter.com/
