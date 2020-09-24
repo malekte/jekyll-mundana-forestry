@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- floorball.news
 title: What is floorball.news
 author: Malek
 image: "/assets/images/mitfarbe.png"
