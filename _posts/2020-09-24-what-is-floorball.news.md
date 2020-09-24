@@ -15,4 +15,4 @@ I want to help with this site to grow and get the attention we deserve.
 
 ## What is floorball.news
 
-My contribution to a world where I has not anymore to explain what floorball is.
+My contribution to a world where I have not anymore to explain what floorball is.
