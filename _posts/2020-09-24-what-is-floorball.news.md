@@ -11,7 +11,7 @@ It was yesterday when my mind came up with an idea for a global floorball news s
 
 We as a community have archieved some goals in the last years. But there are much more for the future.
 
-I want to help with this site to grow and get the attention we deserve
+I want to help with this site to grow and get the attention we deserve.
 
 ## What is floorball.news
 
