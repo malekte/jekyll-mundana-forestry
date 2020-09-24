@@ -2,7 +2,7 @@
 name: floorball.news
 description: All about the fastest game
 logo: "/assets/images/mitfarbe.png"
-favicon: assets/images/favicon.ico
+favicon: "/assets/images/favicon96.jpg"
 email: contact@floorball.news
 mailchimp-list: https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b
 include:
